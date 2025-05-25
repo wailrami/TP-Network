@@ -7,7 +7,7 @@ This lab explores fundamental switching concepts (MAC learning, forwarding, floo
 ---
 
 ## **2. Lab Topology**  
-![Network Topology](./screenshots/lab3_topology.png)  
+![Network Topology](./screenshots/switching_topology.png)  
 ---
 
 ## **3. Addressing Table**  
