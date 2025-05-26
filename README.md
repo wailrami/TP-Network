@@ -41,6 +41,14 @@ Each lab features a detailed report, configuration files (.pkt), and verificatio
 - **Objective:** Segment a LAN into student/faculty VLANs.
 - **Key Skills:** VLAN creation, trunk port configuration
 
+
+### **Lab 5: Access Control Lists Configuration **  
+- **Objective:** Implement ACLs to control traffic flow and secure network access
+- **Key Skills:**
+1. Configure standard and extended ACLs
+2. Apply ACLs to router interfaces
+3. Test and verify ACL functionality
+
 ---
 
 ## **Technical Toolkit**  
@@ -68,6 +76,10 @@ Each lab features a detailed report, configuration files (.pkt), and verificatio
 ├── Lab4_VLANs/
 │   ├── Lab4_Report.md
 │   └── vlan_topology.pkt
+│   └── screenshots/
+├── Lab5_ACL/
+│   ├── Lab5_Report.md
+│   └── acl.pkt
 │   └── screenshots/
 └── README.md 
 ```
