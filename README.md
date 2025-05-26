@@ -42,7 +42,7 @@ Each lab features a detailed report, configuration files (.pkt), and verificatio
 - **Key Skills:** VLAN creation, trunk port configuration
 
 
-### **Lab 5: Access Control Lists Configuration **  
+### **Lab 5: Access Control Lists Configuration**  
 - **Objective:** Implement ACLs to control traffic flow and secure network access
 - **Key Skills:**
 1. Configure standard and extended ACLs
