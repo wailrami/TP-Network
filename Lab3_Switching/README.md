@@ -84,6 +84,6 @@ This lab explores fundamental switching concepts (MAC learning, forwarding, floo
 - Observed **flooding behavior** when destination unknown.  
 
 **Files Included:**  
-- `Lab3_Report.md` (This report)  
+- `README.md` (This report)  
 - `switching_topology.pkt`  
 - `/screenshots` (Evidence images)  

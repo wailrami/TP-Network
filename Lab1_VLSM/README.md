@@ -92,7 +92,7 @@ VLSM efficiently allocated IPs to departments with minimal waste. The network wa
 
 
 **Files Included:**  
-- `Lab1_Report.md` (This report)
+- `README.md` (This report)
 - `vlsm_topology.pkt` (Packet Tracer file)
 - `/screenshots` (Verification evidence)  
 

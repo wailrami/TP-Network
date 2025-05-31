@@ -62,23 +62,23 @@ Each lab features a detailed report, configuration files (.pkt), and verificatio
 ```plaintext
 /networking-labs/
 ├── Lab1_VLSM/
-│   ├── Lab1_Report.md
+│   ├── README.md
 │   ├── vlsm_topology.pkt
 │   └── screenshots/
 ├── Lab2_DHCP/
-│   ├── Lab2_Report.md
+│   ├── README.md
 │   └── dhcp_topology.pkt
 │   └── screenshots/
 ├── Lab3_Switching/
-│   ├── Lab3_Report.md
+│   ├── README.md
 │   └── switching_topology.pkt
 │   └── screenshots/
 ├── Lab4_VLANs/
-│   ├── Lab4_Report.md
+│   ├── README.md
 │   └── vlan_topology.pkt
 │   └── screenshots/
 ├── Lab5_ACL/
-│   ├── Lab5_Report.md
+│   ├── README.md
 │   └── acl.pkt
 │   └── screenshots/
 └── README.md 
@@ -87,7 +87,7 @@ Each lab features a detailed report, configuration files (.pkt), and verificatio
 ---
 
 ## **How to Use**  
-1. **View Reports:** Open `LabX_Report.md` for detailed explanations.  
+1. **View Reports:** Open `README.md` for detailed explanations.  
 2. **Simulate Networks:** Load `.pkt` files in Cisco Packet Tracer.  
 3. **Reproduce Results:** Follow configurations in reports.  
 

@@ -101,6 +101,6 @@ Router(config-if)# ip helper-address 192.168.1.2
 - Relay agents enable centralized DHCP serving  
 
 **Files Included:**  
-- `Lab2_Report.md` (This report)  
+- `README.md` (This report)  
 - `dhcp_topology.pkt`  
 - `/screenshots` (Configuration evidence)  

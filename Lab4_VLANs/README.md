@@ -83,6 +83,6 @@ This lab demonstrates VLAN implementation on a Layer 2 switch in Cisco Packet Tr
 This lab successfully demonstrated VLAN segmentation, isolating broadcast domains between student and faculty groups while enabling communication within each VLAN. The trunk port configuration prepares the network for scalable multi-switch VLAN extension. Future work could implement inter-VLAN routing using a Layer 3 switch or router.
 
 **Files Included:**  
-- `Lab4_Report.md`  
+- `README.md`  
 - `vlan_topology.pkt`  
 - `/screenshots`  
